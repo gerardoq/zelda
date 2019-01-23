@@ -1,0 +1,10 @@
+canvas{
+	height: 100vh;
+}
+
+body{
+	margin: 0px;
+	overflow: hidden;
+	display: flex;
+	justify-content: center;
+}
